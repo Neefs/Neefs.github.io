@@ -1,3 +1,3 @@
 # Home Page
 
-[Test](./test/){: #btn}
+<button class="btn">Click me</button>
